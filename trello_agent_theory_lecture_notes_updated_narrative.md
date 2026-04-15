@@ -1,4 +1,3 @@
-# Demo Lecture Notes  
 ## Topic: Building a Trello AI Agent with LangChain
 
 ---
